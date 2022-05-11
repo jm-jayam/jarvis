@@ -1,0 +1,16 @@
+export const Theme = [{
+    primary : '#00bcd4',
+    secondary : '#ff9800',
+    tertiary : '#ff5722',
+    quaternary : '#9c27b0',
+    quinary : '#3f51b5',
+    senary : '#2196f3',
+    septenary : '#009688',
+    octonary : '#4caf50',
+    nonary : '#cddc39',
+    decenary : '#ffeb3b',
+    undecenary : '#ffc107',
+    duodecenary : '#ff9800',
+    tridecenary : '#ff5722',
+    quattuordecenary : '#9c27b0',
+}]
